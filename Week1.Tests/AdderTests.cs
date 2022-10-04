@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace ClassroomTemplate.Tests;
+namespace Week1.Tests;
 
 public class AdderTests
 {

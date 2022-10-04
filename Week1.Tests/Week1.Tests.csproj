@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassroomTemplate\ClassroomTemplate.csproj" />
+    <ProjectReference Include="..\Week1\Week1.csproj" />
   </ItemGroup>
 
 </Project>

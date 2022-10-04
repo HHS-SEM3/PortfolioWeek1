@@ -1,4 +1,4 @@
-namespace ClassroomTemplate;
+namespace Week1;
 
 public static class HelloWorld
 {

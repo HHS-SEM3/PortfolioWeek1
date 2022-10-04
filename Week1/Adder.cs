@@ -1,4 +1,4 @@
-﻿namespace ClassroomTemplate;
+﻿namespace Week1;
 
 public record class Adder(int First, int Second)
 {
